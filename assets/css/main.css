@@ -1867,6 +1867,24 @@
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-instagram {
+				background: #db6b67;
+				color: #fff;
+			}
+
+				.icon.circle.fa-instagram:hover {
+					background: #df7b77;
+				}
+
+			.icon.circle.fa-youtube {
+                                background: #ff6b67;
+                                color: #fff;
+                        }
+
+                                .icon.circle.fa-youtube:hover {
+                                        background: #df7b77;
+                                }
+
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
