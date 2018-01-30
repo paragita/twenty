@@ -1811,6 +1811,13 @@
 				width: 100%;
 			}
 
+				.image.featured img.foto {
+					display:inline;
+					float:left;
+					margin: 0 0.5em 0.5em 0;
+					width:auto;	
+				}
+
 /* Icon */
 
 	.icon {
@@ -3037,6 +3044,13 @@
 
 			p {
 				text-align: justify;
+			}
+
+			.image.featured img.foto {
+				float:none;
+				display:block;
+				width:100%;
+				margin: 0 0 2em 0;	
 			}
 
 		/* Section/Article */
