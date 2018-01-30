@@ -1644,6 +1644,12 @@
 		padding: 1em 0 1em 2em;
 	}
 
+
+	.content p {
+		text-align: justify;
+	}
+
+
 /* Section/Article */
 
 	section.special, article.special {
